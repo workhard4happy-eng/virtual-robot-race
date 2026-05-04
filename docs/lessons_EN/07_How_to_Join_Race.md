@@ -1,7 +1,16 @@
-# 7. How to Join the Race
+﻿# 7. How to Join the Race
 
 You have developed your algorithm and AI model through the training sessions — now it's time to race.
 There are two race formats: "Time Attack" and "Head-to-Head."
+
+**Learning objectives:**
+- Complete the Time Attack race entry steps in practice
+- Understand how results are automatically submitted to the leaderboard
+- Understand the Head-to-Head format and how grid positions are determined
+- Implement a robust start detection that works from either grid position
+
+> **▶ Watch this lesson first**: [Lesson 07 Hands-on (YouTube)](https://youtu.be/kwLAPdCD-jU?t=1386)
+> Chapters are set in the video. Use the section links to jump directly to each part.
 
 ---
 
@@ -37,9 +46,9 @@ Click **START** to begin the Time Attack. When you finish, your result is **auto
 In the next training session, you will compete in direct head-to-head races.
 
 ### How to Submit
-Compress your entire `Robot1` folder as a ZIP file and submit it to the designated location.
+Check the active competition page for submission instructions and deadlines.
 
-**Submission location:** Check the active competition page for the ZIP submission link: [https://aira-race.com/competitions](https://aira-race.com/competitions)
+**Competition page:** [https://aira-race.com/competitions](https://aira-race.com/competitions)
 
 ### Race Format
 - Submitted programs will race two at a time.

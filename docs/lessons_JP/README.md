@@ -12,7 +12,7 @@ aira トレーニングカリキュラムへようこそ。
 **対象者**
 - AI・自動運転・ロボット制御に興味のあるエンジニア、研究者、学生
 - AIの事前知識は不要 — 基本的なPythonとターミナル操作ができればOK
-- 一部ツール（Google Gemini Code Assist等）の利用に Google アカウントが必要（18歳以上推奨）
+- 一部ツール（Gemini Code Assist、Claude Code、Codexなど）の利用に各サービスのアカウントが必要（18歳以上推奨）
 
 **動作環境**
 - **Windows 11**（Mac/Linux 対応は今後予定）
@@ -24,7 +24,7 @@ aira トレーニングカリキュラムへようこそ。
 
 **推奨 VSCode 拡張機能**
 - **Python**（Microsoft）— Python 言語サポート
-- **Gemini Code Assist**（Google Cloud）— レッスン後半で使用するAIコーディング支援
+- **AIコーディングアシスタント**（Gemini Code Assist、Claude Code、Codexなど）— レッスン後半で使用するAIコーディング支援
 - **Markdown Preview Enhanced**（shd101wyy）— `Ctrl+Shift+V` でこのファイルをプレビュー。コードブロックにコピーボタンが表示されます
 
 ---
@@ -73,7 +73,7 @@ aira トレーニングカリキュラムへようこそ。
 2. **レッスンファイルを開く** — `Ctrl+Shift+V` でMarkdownプレビューを表示
 3. **コードブロックをコピー** — プレビュー右上のコピーボタンを使う
 4. **ターミナルに貼り付ける** — VSCode ターミナルでは右クリックで貼り付け（`Ctrl+V` 不要）
-5. **わからないことは質問** — Gemini Code Assist または NotebookLM を活用（レッスン02で説明）
+5. **わからないことは質問** — AIアシスタント（Gemini Code Assist、Claude Code、Codexなど）または NotebookLM を活用（レッスン02で説明）
 
 > 手順で詰まったら [GitHub Issue](https://github.com/aira-race/virtual-robot-race/issues) を開いて状況を共有してください。
 
